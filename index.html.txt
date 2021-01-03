@@ -1,0 +1,12 @@
+<html>
+
+<head>
+<title>How to insert an image</title>
+</head>
+
+<body>
+
+<img src="pranaypic.jpg" />
+
+</body>
+</html>
